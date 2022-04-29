@@ -1,0 +1,69 @@
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Blank Game\Blank Game\bin\Windows\x86\Debug\Blank Game.exe
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Blank Game\Blank Game\bin\Windows\x86\Debug\Blank Game.pdb
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Blank Game\Blank Game\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.dll
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Blank Game\Blank Game\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.xml
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Blank Game\Blank Game\obj\x86\Debug\Blank Game.csprojResolveAssemblyReference.cache
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Blank Game\Blank Game\obj\x86\Debug\Blank Game.exe
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Blank Game\Blank Game\obj\x86\Debug\Blank Game.pdb
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\00 Blank Game\Blank Game\obj\x86\Debug\Blank Game.exe
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\00 Blank Game\Blank Game\obj\x86\Debug\Blank Game.pdb
+C:\Users\Will\Desktop\01 Blank Game\Blank Game\bin\Windows\x86\Debug\Content\boulder1.xnb
+C:\Users\Will\Desktop\01 Blank Game\Blank Game\bin\Windows\x86\Debug\Content\flare2.xnb
+C:\Users\Will\Desktop\01 Blank Game\Blank Game\bin\Windows\x86\Debug\Content\MF.xnb
+C:\Users\Will\Desktop\01 Blank Game\Blank Game\bin\Windows\x86\Debug\Content\Space.xnb
+C:\Users\Will\Desktop\01 Blank Game\Blank Game\bin\Windows\x86\Debug\Blank Game.exe
+C:\Users\Will\Desktop\01 Blank Game\Blank Game\bin\Windows\x86\Debug\Blank Game.pdb
+C:\Users\Will\Desktop\01 Blank Game\Blank Game\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Will\Desktop\01 Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Will\Desktop\01 Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Will\Desktop\01 Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Will\Desktop\01 Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Will\Desktop\01 Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Will\Desktop\01 Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Will\Desktop\01 Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Will\Desktop\01 Blank Game\Blank Game\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Will\Desktop\01 Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Will\Desktop\01 Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Will\Desktop\01 Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Will\Desktop\01 Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Will\Desktop\01 Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Will\Desktop\01 Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Will\Desktop\01 Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Will\Desktop\01 Blank Game\Blank Game\obj\x86\Debug\Blank Game.csprojAssemblyReference.cache
+C:\Users\Will\Desktop\01 Blank Game\Blank Game\obj\x86\Debug\Blank Game.csproj.CoreCompileInputs.cache
+C:\Users\Will\Desktop\01 Blank Game\Blank Game\obj\x86\Debug\Blank Game.csproj.CopyComplete
+C:\Users\Will\Desktop\01 Blank Game\Blank Game\obj\x86\Debug\Blank Game.exe
+C:\Users\Will\Desktop\01 Blank Game\Blank Game\obj\x86\Debug\Blank Game.pdb
+C:\Users\Will\Desktop\01 Blank Game\Blank Game\bin\Windows\x86\Debug\Content\Debug.xnb
+C:\Users\Will\Desktop\01 Blank Game\Blank Game\bin\Windows\x86\Debug\Content\Star Wars Theme Song By John Williams.wma
+C:\Users\Will\Desktop\01 Blank Game\Blank Game\bin\Windows\x86\Debug\Content\Star Wars Theme Song By John Williams.xnb
+C:\Users\Will\Desktop\01 Blank Game\Blank Game\bin\Windows\x86\Debug\Content\Quadlaser turret fire.wma
+C:\Users\Will\Desktop\01 Blank Game\Blank Game\bin\Windows\x86\Debug\Content\Quadlaser turret fire.xnb
+C:\Users\Will\Desktop\01 Blank Game\Blank Game\bin\Windows\x86\Debug\Content\Laser Blasts-SoundBible.com-108608437.wma
+C:\Users\Will\Desktop\01 Blank Game\Blank Game\bin\Windows\x86\Debug\Content\Laser Blasts-SoundBible.com-108608437.xnb
+C:\Users\Will\Desktop\01 Blank Game\Blank Game\bin\Windows\x86\Debug\Content\Explosion+1.wma
+C:\Users\Will\Desktop\01 Blank Game\Blank Game\bin\Windows\x86\Debug\Content\Explosion+1.xnb
+C:\Users\Will\Desktop\01 Blank Game\Blank Game\bin\Windows\x86\Debug\Content\Font.xnb
+C:\Users\Will\Desktop\01 Blank Game\Blank Game\bin\Windows\x86\Debug\Content\Button.xnb
+C:\Users\Will\Desktop\01 Blank Game\Blank Game\bin\Windows\x86\Debug\Content\sw_deathstar_01.xnb
+C:\Users\Will\Desktop\01 Blank Game\Blank Game\bin\Windows\x86\Debug\Content\space 2.xnb
+C:\Users\Will\Desktop\01 Blank Game\Blank Game\bin\Windows\x86\Debug\Content\Thank Me.wma
+C:\Users\Will\Desktop\01 Blank Game\Blank Game\bin\Windows\x86\Debug\Content\Thank Me.xnb
+C:\Users\Will\Desktop\01 Blank Game\Blank Game\bin\Windows\x86\Debug\Content\SW.xnb
+C:\Users\Will\Desktop\01 Blank Game\Blank Game\bin\Windows\x86\Debug\Content\xWing.xnb

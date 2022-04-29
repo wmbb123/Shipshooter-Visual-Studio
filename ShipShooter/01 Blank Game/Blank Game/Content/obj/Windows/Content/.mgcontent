@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Will/Desktop/01 Blank Game/Blank Game/Content/boulder1.png</File>
+    <File>C:/Users/Will/Desktop/01 Blank Game/Blank Game/Content/Button.png</File>
+    <File>C:/Users/Will/Desktop/01 Blank Game/Blank Game/Content/Debug.spritefont</File>
+    <File>C:/Users/Will/Desktop/01 Blank Game/Blank Game/Content/Explosion+1.mp3</File>
+    <File>C:/Users/Will/Desktop/01 Blank Game/Blank Game/Content/flare2.png</File>
+    <File>C:/Users/Will/Desktop/01 Blank Game/Blank Game/Content/Font.spritefont</File>
+    <File>C:/Users/Will/Desktop/01 Blank Game/Blank Game/Content/Laser Blasts-SoundBible.com-108608437.mp3</File>
+    <File>C:/Users/Will/Desktop/01 Blank Game/Blank Game/Content/MF.png</File>
+    <File>C:/Users/Will/Desktop/01 Blank Game/Blank Game/Content/Quadlaser turret fire.mp3</File>
+    <File>C:/Users/Will/Desktop/01 Blank Game/Blank Game/Content/space 2.jpg</File>
+    <File>C:/Users/Will/Desktop/01 Blank Game/Blank Game/Content/Space.jpg</File>
+    <File>C:/Users/Will/Desktop/01 Blank Game/Blank Game/Content/Star Wars Theme Song By John Williams.mp3</File>
+    <File>C:/Users/Will/Desktop/01 Blank Game/Blank Game/Content/SW.jpg</File>
+    <File>C:/Users/Will/Desktop/01 Blank Game/Blank Game/Content/sw_deathstar_01.jpg</File>
+    <File>C:/Users/Will/Desktop/01 Blank Game/Blank Game/Content/Thank Me.mp3</File>
+    <File>C:/Users/Will/Desktop/01 Blank Game/Blank Game/Content/xWing.psd</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
